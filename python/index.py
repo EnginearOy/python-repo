@@ -1,3 +1,2 @@
-print("Hello World")
-print("Perry" + " " + "John" + " " + "Elento")
-print("Mary\nRose")
+print("Hello print!!!")
+print ("Perry" + " " + "John" + " " + "Elento")
