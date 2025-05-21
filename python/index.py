@@ -1,2 +1,3 @@
 print("Hello World")
-print ("Perry" + " " + "John" + " " + "Elento")
+print("Perry" + " " + "John" + " " + "Elento")
+print("Mary\nRose")
